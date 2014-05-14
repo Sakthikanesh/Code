@@ -70,7 +70,7 @@
 	<h1>Welcome Sakthivel!</h1>
 
 	<div id="body">
-		<p>So far you have done a nice job!Go ahead.</p>
+		<p>So far you have done a nice job!Thanks</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/views/welcome_message.php</code>
